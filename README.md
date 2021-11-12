@@ -11,4 +11,4 @@ Our implemention of the classic game [Aladdin](https://en.wikipedia.org/wiki/Dis
 * [Box2D](https://box2d.org/) - a 2D physics engine
 
 ## Video
-[![Watch the video](https://img.youtube.com/vi/VKs7B0gdXKk/hqdefault.jpg)](https://www.youtube.com/watch?v=VKs7B0gdXKk)
+[![Watch the video](https://img.youtube.com/vi/Dg1aJq5moDQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Dg1aJq5moDQ)
