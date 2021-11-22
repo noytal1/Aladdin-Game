@@ -1,6 +1,6 @@
 # Aladdin
 ## Description
-Our implemention of the classic game [Aladdin](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Virgin_Games_video_game)) written in C++.
+Our implementation of the classic game [Aladdin](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Virgin_Games_video_game)) written in C++.
 
 ## Key concepts
 * Class inheritance
